@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="plazinput.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ulazinput.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="131"/>
+        <CursorPos X="17" Y="143"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="16">
+      <Position>
+        <Filename Value="ulazinput.pas"/>
+        <Caret Line="63" Column="14" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazinput.pas"/>
+        <Caret Line="75" Column="32" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazinput.pas"/>
+        <Caret Line="70" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazinput.pas"/>
+        <Caret Line="83" Column="33" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazinput.pas"/>
+        <Caret Line="100" Column="8" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazinput.pas"/>
+        <Caret Line="55" Column="8" TopLine="136"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazinput.pas"/>
+        <Caret Line="139" Column="14" TopLine="121"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazinput.pas"/>
+        <Caret Line="131" Column="9" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazinput.pas"/>
+        <Caret Line="142" Column="22" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazinput.pas"/>
+        <Caret Line="16" Column="15"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazinput.pas"/>
+        <Caret Line="148" Column="13" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazinput.pas"/>
+        <Caret Line="192" Column="12" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazinput.pas"/>
+        <Caret Line="224" Column="18" TopLine="188"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazinput.pas"/>
+        <Caret Line="209" Column="3" TopLine="188"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazinput.pas"/>
+        <Caret Line="211" Column="3" TopLine="190"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazinput.pas"/>
+        <Caret Line="135" Column="34" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="ulazinput.pas"/>
+        <Caret Line="227" Column="19" TopLine="209"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
